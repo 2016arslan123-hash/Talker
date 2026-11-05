@@ -1,0 +1,47 @@
+<div align="center">
+
+<img src="assets/logo.png" alt="Talker Logo" width="300" />
+
+# Talker
+
+**Your project description in one punchy sentence.**
+
+[
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+](LICENSE)
+[
+
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+](CONTRIBUTING.md)
+
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Contributing](#contributing) • [License](#license)
+
+</div>
+
+---
+
+## About
+
+Talker is a project that ... *(Is a chatbox public for games and anything u want)*.
+
+## Features
+
+- ⚡ Fast and lightweight
+- 🔧 Easy to set up
+- 🎯 Simple to use
+
+## Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+npm install
+```
+
+## Usage
+
+```bash
+npm start
